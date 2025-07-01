@@ -1,6 +1,4 @@
-Here's a professional and comprehensive GitHub description for your **Image Processing** repository:
 
----
 
 ## 🖼️ Image Processing Toolkit
 
