@@ -11,6 +11,8 @@ This repository contains a comprehensive collection of code, techniques, and doc
 * 🔍 **Feature Extraction** – Edge detection, object recognition, segmentation, etc.
 * 📊 **Visualization Tools** – Display images, histograms, and processed results.
 
+TO SEE THE IMAGE DOWNLOAD IT AND THEN ZOOM TO VIEW AS I HAVE WORKED ON VERY LESS PIXELS
+ALSO DUE TO USE OF CV. IMWRITE RGB IS GETTING CONVERTED TO BGR
 
 
 
