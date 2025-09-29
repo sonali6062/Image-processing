@@ -12,7 +12,15 @@ This repository contains a comprehensive collection of code, techniques, and doc
 * 📊 **Visualization Tools** – Display images, histograms, and processed results.
 
 TO SEE THE IMAGE DOWNLOAD IT AND THEN ZOOM TO VIEW AS I HAVE WORKED ON VERY LESS PIXELS
-ALSO DUE TO USE OF CV. IMWRITE RGB IS GETTING CONVERTED TO BGR
+ALSO DUE TO USE OF cv.imwrite RGB IS GETTING CONVERTED TO BGR
 
-
+```
+Set Up:
+1-Install Python and check it's version
+2-Create a Folder where you want to save all your project
+3-Go to the file path of the folder and replace it with "cmd"
+4-Command prompt will open then enter jupyter notebook
+5-Jupyter notebook will open in live server
+```
+All set to go
 
