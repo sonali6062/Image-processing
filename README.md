@@ -1,5 +1,6 @@
 
 🖼️ Image Processing Toolkit
+![Repository Views](https://komarev.com/ghpvc/?username=sonali6062&label=Profile%20views&color=0e75b6&style=flat)
 
 A playground for experimenting with digital images
 
