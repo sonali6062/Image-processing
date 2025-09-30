@@ -1,8 +1,8 @@
 
 🖼️ Image Processing Toolkit
-```markdown
+
 ![Repository Views](https://img.shields.io/badge/dynamic/json?color=blue&label=Repository%20Views&query=value&url=https://api.countapi.xyz/hit/sonali6062/Image-processing)
-```
+
 
 
 A playground for experimenting with digital images
