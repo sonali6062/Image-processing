@@ -50,18 +50,19 @@ That’s it—you’re ready to explore!
 
 ## Content
 ```
-
-| S.No. | Topic |
-|-------|-------|
-| 1. | **Image Enhancement: An Introduction to Fundamentals of Image Processing** |
-| 2. | **Image Processing Techniques** |
-| 3. | **Image Processing in Real-Time using Web Cam** |
-| 4. | **Capturing Selfies using OpenCV** |
-| 5. | **Image Manipulation** |
-| 6. | **DIY Filter Magic: Create Your Own Instagram Filters** |
-| 7. | **Masking Made Easy: Image Masking Techniques** |
-| 8. | **Branding in Motion: Adding Logos to Live Videos** |
-| 9. | **Face Detection and Manipulation with OpenCV** |
+_______________________________________________________________________________
+| S.No. | Topic                                                               |
+|-------|---------------------------------------------------------------------|
+| 1. | Image Enhancement: An Introduction to Fundamentals of Image Processing |
+| 2. | Image Processing Techniques                                            |
+| 3. | Image Processing in Real-Time using Web Cam                            |
+| 4. | Capturing Selfies using OpenCV                                         |
+| 5. | Image Manipulation                                                     |
+| 6. | DIY Filter Magic: Create Your Own Instagram Filters                    |
+| 7. | Masking Made Easy: Image Masking Techniques                            |
+| 8. | Branding in Motion: Adding Logos to Live Videos                        |
+| 9. | Face Detection and Manipulation with OpenCV                            |
+|_____________________________________________________________________________|
 ```
 
 ⚡ Notes
